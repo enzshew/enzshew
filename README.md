@@ -1,15 +1,6 @@
 ### <div align="center">I'm Erlangga, a Software Engineer</div>  
   
 
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I'm funny person xD  
-  
-
-<br/>  
 
 
 ## My Skill Set  
