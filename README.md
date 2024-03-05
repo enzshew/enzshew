@@ -1,3 +1,6 @@
+![banner](https://user-images.githubusercontent.com/28801003/87854706-51fca300-c91c-11ea-8c9b-37e322504e1e.png)
+
+
 ### <div align="center">I'm Erlangga, a Software Engineer</div>  
 
 
